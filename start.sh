@@ -1,1 +1,1 @@
-java -jar server.jar
+/usr/java/jdk1.8.0_101/jre/bin/java -jar server.jar
